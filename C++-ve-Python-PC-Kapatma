@@ -1,0 +1,12 @@
+#C++
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+system("c:\\windows\\system32\\shutdown /s")
+}
+
+#Python
+import os
+os.system("shutdown /s /t /1")
